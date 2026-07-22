@@ -1,0 +1,14 @@
+Project title:
+CSV / Excel Automation Script
+
+Short description:
+I built a Python automation script that cleans messy CSV data, removes duplicates, validates rows, and generates a structured Excel report with a dashboard, clean data sheet, and error sheet.
+
+What it solves:
+Many small businesses manually clean CSV files, remove duplicates, check invalid emails, and prepare Excel reports. This script automates that process and saves time.
+
+Tech stack:
+Python, pandas, openpyxl, CSV processing, Excel automation, data validation.
+
+Client value:
+This automation reduces repetitive manual spreadsheet work, improves data quality, and creates ready-to-use Excel reports.
