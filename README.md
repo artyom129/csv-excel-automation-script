@@ -1,7 +1,5 @@
 # CSV / Excel Automation Script
 
-[![Tests](https://github.com/artyom129/csv-excel-automation-script/actions/workflows/tests.yml/badge.svg)](https://github.com/artyom129/csv-excel-automation-script/actions/workflows/tests.yml)
-
 Python automation for cleaning messy CSV order data and generating a formatted Excel report with a dashboard, clean records, and validation errors.
 
 ## Business problem
