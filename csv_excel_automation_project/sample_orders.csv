@@ -1,9 +1,0 @@
-order_id,date,customer_name,email,phone,product,quantity,price
-1001,2026-07-01, john smith ,john@example.com,+1 555 111 222,Keyboard,2,45.50
-1002,2026-07-01,Anna Brown,anna@example.com,+1 555 333 444,Mouse,1,20
-1003,2026-07-02,Mike Wilson,bad-email,555-999,Monitor,1,180
-1004,2026-07-02,Sarah Lee,sarah@example.com,+1 555 777 888,USB Cable,3,6.99
-1002,2026-07-01,Anna Brown,anna@example.com,+1 555 333 444,Mouse,1,20
-1005,wrong-date,Robert King,robert@example.com,+1 555 000 111,Headset,1,75
-1006,2026-07-03,,emptyname@example.com,+1 555 222 333,Laptop Stand,2,28.5
-1007,2026-07-03,Emily Stone,emily@example.com,+1 555 444 555,Webcam,1,59.99
