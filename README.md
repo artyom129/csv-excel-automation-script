@@ -1,3 +1,5 @@
+**English** | [Русский](README_RU.md)
+
 # CSV / Excel Automation Script
 
 Python automation for cleaning messy CSV order data and generating a formatted Excel report with a dashboard, clean records, and validation errors.
